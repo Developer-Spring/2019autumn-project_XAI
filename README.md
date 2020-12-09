@@ -9,12 +9,11 @@
 ## 개발 스택
 개발 시 사용한 언어 및 라이브러리
 
-Python
-Pandas
-Sickit-learn
-Lime
-Factor-analysis
+- Python
+- Pandas
+- Sickit-learn
+- Lime
 
 ## 기타
-본 프로젝트는 2019 추계 산업공학 경진대회를 위해 진행하였음
+본 프로젝트는 2019 추계 산업공학 경진대회를 위해 진행습니다.
 
