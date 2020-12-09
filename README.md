@@ -15,6 +15,6 @@ Sickit-learn
 Lime
 Factor-analysis
 
-기타
+## 기타
 본 프로젝트는 2019 추계 산업공학 경진대회를 위해 진행하였음
 
